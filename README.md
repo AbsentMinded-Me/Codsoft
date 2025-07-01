@@ -14,12 +14,12 @@ During this internship, I worked on multiple hands-on projects that helped me en
 ### 1. To-Do List App
 A simple command-line task manager where users can add, view, and delete tasks.  
 - Tech Used: Python  
-- Key Concepts: File handling, basic CRUD operations
+- Key Concepts: File handling, basic SQL concepts
 
 ### 2. Calculator
 A GUI-based calculator to perform basic arithmetic operations.  
-- Tech Used: Python, Tkinter  
-- Key Concepts: GUI development, event-driven programming
+- Tech Used: Python 
+- Key Concepts: event-driven programming
 
 ### 3. Password Generator
 An app that generates secure, random passwords based on user-defined length.  
